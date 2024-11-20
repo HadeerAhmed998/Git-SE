@@ -30,3 +30,4 @@ The program keeps track of scores for each player.
 5-**Replay Option:**
 After the game ends, players can choose to play again or exit.
 ##### mahmoud tok"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"
+##### Adel tok"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"
