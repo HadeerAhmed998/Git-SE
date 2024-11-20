@@ -39,7 +39,7 @@ class Game:
             "scissors": "paper",
             "paper": "rock"
         }
-
+        # if player1 = rock and player2 = scissors then player1 win 
         if wins[self.player1.choice] == self.player2.choice:
             return f"{self.player1.name} wins!"
         else:
